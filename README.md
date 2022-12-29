@@ -7,7 +7,15 @@ This project involves the design and implementation of a rotary inverted pendulu
   <img src="https://user-images.githubusercontent.com/81301684/209886657-d23bd41b-5b84-484a-a1d1-812a3a5d1917.png" alt="image">
 </p>
 
-![image](https://user-images.githubusercontent.com/81301684/209886802-cc0e819c-6bc1-4ef3-a986-052a14be2cd3.png)![image](https://user-images.githubusercontent.com/81301684/209886851-dfa734f8-b1f3-44b7-a5bd-99d6ea4dc7a6.png)
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/81301684/209886802-cc0e819c-6bc1-4ef3-a986-052a14be2cd3.png" alt="image">
+</p>
+
+<p align="right">
+  <img src="https://user-images.githubusercontent.com/81301684/209886851-dfa734f8-b1f3-44b7-a5bd-99d6ea4dc7a6.png" alt="image">
+</p>
+
+
 
 # Video
 
