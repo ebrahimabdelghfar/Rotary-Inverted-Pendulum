@@ -14,9 +14,10 @@ This project involves the design and implementation of a rotary inverted pendulu
 
 # Video
 
-<p align="center">
-  <video src="https://user-images.githubusercontent.com/81301684/209886973-716920ac-b15f-4c18-91d1-c321af55a641.mp4" controls></video>
-</p>
+
+https://user-images.githubusercontent.com/81301684/209939626-c5e16321-2852-4be7-b2b8-c4163fcaf9ac.mp4
+
+
 
 # Limitations
 There is no swing up functionality in the current model. Additionally, there is some vibration present in the system. The system is able to work within an angle range of +20 to -20 degrees, beyond which it will turn off until the pendulum is returned within this range.
