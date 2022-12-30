@@ -55,7 +55,7 @@ The repository includes the following files:
 * Driver guide "folder that contain the simulink's arduino encoder driver in it" 
 
 # Credits
-This project was developed by Ebrahim Abdelghfar with the help of the following papers and videos:
+This project was developed by Ebrahim Abdelghfar and Hesham Hesham with the help of the following papers and videos:
 
 * https://www.researchgate.net/publication/224178913_Modeling_and_control_of_a_rotary_inverted_pendulum_using_various_methods_comparative_assessment_and_result_analysis
 * https://www.st.com/content/dam/AME/2019/Educational%20Curriculums/motor-control/Introduction_to_Integrated_Rotary_Inverted_Pendulum_v2.pdf4
