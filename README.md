@@ -41,6 +41,7 @@ https://user-images.githubusercontent.com/81301684/209939626-c5e16321-2852-4be7-
 
 
 
+
 # Limitations
 There is no swing up functionality in the current model. Additionally, there is some vibration present in the system. The system is able to work within an angle range of +20 to -20 degrees, beyond which it will turn off until the pendulum is returned within this range.
 
