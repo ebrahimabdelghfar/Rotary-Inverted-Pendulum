@@ -1,4 +1,4 @@
-# Software 
+# Software used
 Matlab 2020a
 # Introduction
 This project involves the design and implementation of a rotary inverted pendulum system using Arduino and Simulink. The system consists of a motor with a built-in encoder and an incremental rotary encoder for measuring the angle of the pendulum. The controller for stabilizing the system is implemented using an LQR controller.
@@ -33,6 +33,19 @@ This project involves the design and implementation of a rotary inverted pendulu
   <img src="https://user-images.githubusercontent.com/81301684/209886802-cc0e819c-6bc1-4ef3-a986-052a14be2cd3.png" alt="image">
   <img src="https://user-images.githubusercontent.com/81301684/209886851-dfa734f8-b1f3-44b7-a5bd-99d6ea4dc7a6.png" alt="image2">
 </p>
+
+# Electrical circuit
+
+![Schematic_New Project_2023-01-02](https://user-images.githubusercontent.com/81301684/210426827-29ecf434-14e2-4e5e-a8b4-91e6217e699e.png)
+
+# Mechanical Model
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/81301684/210427601-3b9a7c0b-5ca1-4850-a05f-a922b4c8bce7.png" alt="image">
+  <img src="https://user-images.githubusercontent.com/81301684/210427620-30246fe1-5a7e-4978-b5c6-fe4eaf1ce41d.png" alt="image2">
+</p>
+
+
+
 
 # Video
 
